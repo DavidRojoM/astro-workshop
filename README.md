@@ -16,3 +16,5 @@ TODO
 - [x] Create Rating Preact client island
 - [x] Create Rate movie action
 - [x] Add an adapter and deploy!
+
+![result](image.png)
